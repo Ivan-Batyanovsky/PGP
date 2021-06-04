@@ -4,4 +4,4 @@
 
 [Код](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab1/main.cu)
 
-[Отчет](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab1/report.docx)
+[Отчет](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab1/report.pdf)
