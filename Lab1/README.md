@@ -1,3 +1,6 @@
 # Освоение программного обеспечения для работы с технологией CUDA. Примитивные операции над векторами.
 
-## Вариант 2. Вычитание векторов.
+## Вычитание векторов.
+
+[Код](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab1/main.cu)
+[Отчет](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab1/report.docx)
