@@ -1,6 +1,6 @@
-# Освоение программного обеспечения для работы с технологией CUDA. Примитивные операции над векторами.
+# Обработка изображений на GPU. Фильтры.
 
-## Вычитание векторов.
+## Выделение контуров. Метод Робертса.
 
 [Начальное фото](https://github.com/Ivan-Batyanovsky/PGP/blob/main/Lab2/png-transparent-lovely-smile-lovely-smile-thumbs-up-thumbnail.png)
 
